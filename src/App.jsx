@@ -1,4 +1,3 @@
-FILE 12/20: src/App.jsx (405줄) - 완전 버전
 import { useState, useEffect } from 'react';
 import AIRecommendation from './components/AIRecommendation';
 import InsuranceComparison from './components/InsuranceComparison';
