@@ -81,7 +81,7 @@ export default async function handler(req, res) {
         <div style="text-align: center; padding: 20px; color: #94a3b8; font-size: 12px;">
           <p>PetCare+ | 수인AI브릿지 | Claude AI 기반 펫보험 상담</p>
           <p>📧 ${email ? `답변: ${email}` : 'AI 챗봇에서 24시간 상담 가능'}</p>
-          <p>사업자등록번호: 151-09-03201 | 수원시 팔달구</p>
+          <p>사업자등록번호: 151-09-03201 | 수원시 영통구</p>
         </div>
       </div>
     `;
